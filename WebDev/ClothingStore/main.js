@@ -1,1 +1,2 @@
-alert("'Hello World!'");
+// alert("'Hello World!'");
+const menuLinks = document.querySelector('.nav-links')
