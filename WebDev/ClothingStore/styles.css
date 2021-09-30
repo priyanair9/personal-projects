@@ -293,3 +293,17 @@
    float: left;
    padding: 55px;
  }
+
+ .green {
+    background-color: rgb(94, 160, 137);
+    width: 25px;
+    height: 25px;
+    border-radius: 75px;
+ }
+
+ .red {
+   background-color: rgb(244, 106, 106);
+   width: 25px;
+   height: 25px;
+   border-radius: 75px;
+}
