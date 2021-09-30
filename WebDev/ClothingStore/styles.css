@@ -320,6 +320,8 @@
     width: 25px;
     height: 25px;
     border-radius: 75px;
+    float: left;
+    margin: 0.5%;
  }
 
  .red {
@@ -327,6 +329,8 @@
    width: 25px;
    height: 25px;
    border-radius: 75px;
+   float: left;
+   margin: 0.5%;
 }
 
 .blue {
@@ -334,4 +338,6 @@
    width: 25px;
    height: 25px;
    border-radius: 75px;
+   float: left;
+   margin: 0.5%;
 }
