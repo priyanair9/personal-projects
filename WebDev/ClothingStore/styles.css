@@ -269,3 +269,12 @@
  .clothingBackground {
     background-color: white;
  }
+
+ .skirt {
+    float: left;
+    padding: 55px;
+ }
+
+ .h4 {
+    font-weight: 900;
+ }
