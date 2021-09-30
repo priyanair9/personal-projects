@@ -319,9 +319,12 @@
     background-color: rgb(94, 160, 137);
     width: 25px;
     height: 25px;
+    border-style: solid;
     border-radius: 75px;
+    border-width: 1px;
     float: left;
     margin: 0.5%;
+    border-color: black;
  }
 
  .red {
@@ -331,6 +334,7 @@
    border-radius: 75px;
    float: left;
    margin: 0.5%;
+   border-style: none;
 }
 
 .blue {
@@ -340,4 +344,5 @@
    border-radius: 75px;
    float: left;
    margin: 0.5%;
+   border-style: none;
 }
