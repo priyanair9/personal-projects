@@ -284,14 +284,35 @@
     padding: 55px;
  }
 
+ .yellow {
+   background-color: rgb(255, 215, 114);
+    width: 25px;
+    height: 25px;
+    border-radius: 75px;
+ }
+
  .pinkDress {
    float: left;
    padding: 55px;
  }
 
+ .pink {
+   background-color: rgb(252, 216, 234);
+    width: 25px;
+    height: 25px;
+    border-radius: 75px;
+ }
+
  .wrapSkirt {
    float: left;
    padding: 55px;
+ }
+
+ .grey {
+   background-color: rgb(163, 160, 163);
+    width: 25px;
+    height: 25px;
+    border-radius: 75px;
  }
 
  .green {
