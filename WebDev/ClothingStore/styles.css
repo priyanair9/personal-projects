@@ -307,3 +307,10 @@
    height: 25px;
    border-radius: 75px;
 }
+
+.blue {
+   background-color: rgb(199, 219, 250);
+   width: 25px;
+   height: 25px;
+   border-radius: 75px;
+}
