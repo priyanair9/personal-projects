@@ -1,6 +1,3 @@
-// alert("'Hello World!'");
-// const menuLinks = document.querySelector('.nav-links')
-
 let img = document.querySelector('#image');
 let greenButton = document.querySelector('#green');
 let redButton = document.querySelector('#red');
