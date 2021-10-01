@@ -324,7 +324,7 @@
     border-width: 1px;
     float: left;
     margin: 0.5%;
-    border-color: black;
+    border-color: rgb(94, 160, 137);
  }
 
  .red {
@@ -334,7 +334,8 @@
    border-radius: 75px;
    float: left;
    margin: 0.5%;
-   border-style: none;
+   border-style: solid;
+   border-color: rgb(244, 106, 106);
 }
 
 .blue {
@@ -344,5 +345,6 @@
    border-radius: 75px;
    float: left;
    margin: 0.5%;
-   border-style: none;
+   border-style: solid;
+   border-color: rgb(199, 219, 250);
 }
