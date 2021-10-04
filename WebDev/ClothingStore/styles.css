@@ -296,6 +296,21 @@
    padding: 55px;
  }
 
+ .pinkDress li {
+   list-style: none;
+}
+
+ .pinkDress li a {
+   color:black;
+   text-decoration: none;
+   font-size: 25px;
+ }
+
+ .pinkDress li :hover {
+    font-weight: bolder;
+    color: rgb(253, 99, 125);
+ }
+
  .pink {
    background-color: rgb(252, 216, 234);
     width: 25px;
