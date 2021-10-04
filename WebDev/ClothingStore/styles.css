@@ -408,3 +408,17 @@
    border-style: solid;
    border-color: rgb(199, 219, 250);
 }
+
+.pinkImage {
+   padding-left: 200px;
+   padding-top: 70px;
+}
+
+.productTitle h1 {
+   float: right;
+   padding-right: 450px;
+   padding-top: 70px;
+   font-weight: bolder;
+   font-size: 200;
+   font-family: 'Rubik', sans-serif;
+}
