@@ -384,7 +384,7 @@
     border-width: 1px;
     float: left;
     margin: 0.5%;
-    border-color: rgb(94, 160, 137);
+    border-color: black;
  }
 
  .red {
@@ -392,6 +392,7 @@
    width: 25px;
    height: 25px;
    border-radius: 75px;
+   border-width: 1px;
    float: left;
    margin: 0.5%;
    border-style: solid;
@@ -403,6 +404,7 @@
    width: 25px;
    height: 25px;
    border-radius: 75px;
+   border-width: 1px;
    float: left;
    margin: 0.5%;
    border-style: solid;
@@ -414,11 +416,24 @@
    padding-top: 70px;
 }
 
-.productTitle h1 {
+.productDetails {
+   float: right;
+   padding-right: 450px;
+   padding-top: 80px;
+   
+}
+
+.productDetails h1 {
    float: right;
    padding-right: 450px;
    padding-top: 70px;
    font-weight: bolder;
    font-size: 200;
    font-family: 'Rubik', sans-serif;
+}
+
+.productDetails h4 {
+   float: right;
+   padding-right: 450px;
+   padding-top: 80px;
 }
