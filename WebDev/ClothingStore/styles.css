@@ -1,3 +1,5 @@
+
+/* home page */
 *{
     margin: 0;
     padding: 0;
@@ -266,6 +268,8 @@
     background: #8256c9;
  }
 
+ /* clothing page */
+
  .clothingBackground {
     background-color: white;
  }
@@ -410,6 +414,8 @@
    border-style: solid;
    border-color: rgb(199, 219, 250);
 }
+
+/* pink dress page */
 
 .pinkImage {
    padding-left: 200px;
