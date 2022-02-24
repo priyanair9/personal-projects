@@ -7,12 +7,12 @@ public class Main {
     // method to count how many 9s are in a number
     public static int count9(int n) {
         int count = 0;
-        if(n < 9) {
+        if (n < 9) {
             return count;
         }
-        if(n%10 == 9 || n == 9) {
+        if (n % 10 == 9 || n == 9) {
             count++;
         }
-        return count + count9(n/10);
+        return count + count9(n / 10);
     }
 }
